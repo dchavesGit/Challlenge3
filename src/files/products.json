@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Perro",
+    "description": "coso",
+    "price": 200,
+    "thumbnail": "Ruta de vuelo",
+    "code": 200,
+    "stock": 3,
+    "id": 1
+  },
+  {
+    "title": "gato",
+    "description": "animal",
+    "price": 200,
+    "thumbnail": "patas",
+    "code": 201,
+    "stock": 6,
+    "id": 2
+  },
+  {
+    "title": "dinosaurio",
+    "description": "prehistorico",
+    "price": 2500,
+    "thumbnail": "desde el 1000-ac",
+    "code": 202,
+    "stock": 7,
+    "id": 3
+  },
+  {
+    "title": "Perro dibujado de mapache",
+    "description": "arte",
+    "price": 2000,
+    "thumbnail": "Ruta de arte",
+    "code": 205,
+    "stock": 9,
+    "id": 4
+  },
+  {
+    "title": "jalapeño",
+    "description": "picante",
+    "price": 150,
+    "thumbnail": "picoroso",
+    "code": 204,
+    "stock": 15,
+    "id": 5
+  }
+]
